@@ -10,16 +10,6 @@ A modern, responsive personal portfolio website built using **HTML, CSS, and Jav
 
 ---
 
-## 📸 Preview
-
-### Navigation & Hero Section
-![Portfolio Hero Section](https://raw.githubusercontent.com/praveenkr-07/portfolio/main/screenshot-hero.png)
-
-### Projects Showcase
-![Projects Section](https://raw.githubusercontent.com/praveenkr-07/portfolio/main/screenshot-projects.png)
-
----
-
 ## ✨ Features
 
 - 🎨 Clean and modern UI with dark mode theme
